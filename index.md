@@ -7,7 +7,7 @@
 
 <img src="images/powerBI_brasileirao-2023.png?raw=true"/>
 
-[![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](twitter.com)
+[![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](https://twitter.com/DGCFutbol/status/1681849819780857857)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

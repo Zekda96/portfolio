@@ -7,7 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://twitter.com/DGCFutbol">Twitter</a> 
   
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0 # TEST COMMENT
 plugins:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

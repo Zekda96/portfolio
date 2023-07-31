@@ -1,10 +1,15 @@
 ## Goleadores Brasileirao 2023
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+En las 16 fechas que van del Brasileirao hay 8 jugadores con ⚽6 goles o más. Basado en sus números, quisiera hablarles de 4 jugadores en particular:
+- Tiquinho Soares 
+- Vitor Roque
+-  Jonathan Calleri
+- Eduardo Sasha.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Tiquinho Soares - Goleador del puntero Botafogo
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+
+Con ⚽ 11 goles y 🅰️ 4 asistencias, es el goleador actual del torneo. Cuenta con 👟 3.10 tiros /90' (cada 90 minutos), es 🥈 2do en Goles /90' sin contar penales y 🥈 en Goles esperados /90'. A pesar de eso, no es el que más figura en la gráfica, ya que 🥅4 goles de penal lo han ayudado a alejarse de su ecolta.
 
 ```javascript
 if (isAwesome){

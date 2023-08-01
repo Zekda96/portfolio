@@ -5,7 +5,7 @@ Basados en el peligro constante que generan en el area, y en la efectividad
 de sus disparos, he armado un top 4 de mejores goleadores del Brasileirao 2023:
 
 
-<img src="images/brasileirao 2023/powerBI_brasileirao-2023.png" width="800"/>
+<img src="images/brasileirao 2023/powerBI_brasileirao-2023.png" width="1000"/>
 
 ### 4. Eduardo Sasha -  Bragantino
 

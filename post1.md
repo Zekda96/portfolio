@@ -37,7 +37,7 @@ Con ⚽11 goles y 🅰️4 asistencias, es el goleador actual del torneo.
 Cuenta con 👟 3.10 tiros /90' (cada 90 minutos), es 🥈 2do en Goles /90'
 sin contar penales y 🥈 en Goles esperados /90'. A pesar de eso, no es el
 nombre que más reslata en la gráfica, ya que es gracias a que pudo anotar
-🥅4 goles de penal que se ha podido alejar de su ecolta:
+🥅4 goles de penal que se ha podido alejar de su escolta:
 
 
 ### 1. Vitor Roque - Atlético Paranaense

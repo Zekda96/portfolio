@@ -3,7 +3,7 @@
 
 ### [Goleadores Brasileirao 2023](/post1)
 
-<img src="images/brasileirao 2023/powerBI_brasileirao-2023.png?raw=true" width='500'/>
+<img src="images/brasileirao 2023/powerBI_brasileirao-2023.png?raw=true" width='350'/>
 
 [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](https://twitter.com/DGCFutbol/status/1681849819780857857)
 
